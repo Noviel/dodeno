@@ -31,5 +31,7 @@ Import 'https://deno.land/std@v0.29.0/prettier/main.ts' failed: 404 Not Found
 https://github.com/denoland/deno/releases  
 https://deno.land/typedoc
 
+https://www.freecodecamp.org/news/the-deno-handbook/
+
 https://medium.com/@kitsonk/develop-with-deno-and-visual-studio-code-225ce7c5b1ba
 https://marketplace.visualstudio.com/items?itemName=justjavac.vscode-deno
