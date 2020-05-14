@@ -6,25 +6,11 @@ Deno exploration project
 
 - Cannot find name `Deno`
 
-- TypeScript errors:
-
-```sh
-error TS2339: Property 'errors' does not exist on type 'typeof Deno'.
-
-► https://deno.land/std@0.50.0/textproto/mod.ts:80:24
-
-80         throw new Deno.errors.InvalidData(
-                          ~~~~~~
-```
+- Top level async error
 
 - VS Code: `Cannot find module X locally`
 
-- Prettier formatiing in VS Code issues:
-```sh 
-[Error - 11:45:49] Request textDocument/formatting failed.
-  Message: Request textDocument/formatting failed with message: Download https://deno.land/std@v0.29.0/prettier/main.ts
-Import 'https://deno.land/std@v0.29.0/prettier/main.ts' failed: 404 Not Found
-```
+- Prettier formatiing in VS Code issues: ignored `.prettierrc`
 
 ## Resources
 
