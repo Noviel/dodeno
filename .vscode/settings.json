@@ -1,9 +1,11 @@
 {
   "deno.enable": true,
+  "deno.unstable": true,
+  "deno.lint": true,
   "[typescript]": {
-    "editor.defaultFormatter": "axetroy.vscode-deno",
+    "editor.defaultFormatter": "denoland.vscode-deno",
   },
   "[typescriptreact]": {
-    "editor.defaultFormatter": "axetroy.vscode-deno",
-  }
+    "editor.defaultFormatter": "denoland.vscode-deno",
+  },
 }

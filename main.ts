@@ -5,7 +5,7 @@ let greeter: HTMLElement | null = document.getElementById(ROOT_HTML_ELEMENT_ID);
 if (!greeter) {
   throw new Error(
     "HTML template is in wrong format: " +
-      `Element with {ROOT_HTML_ELEMENT_ID} id not found.`,
+      `Element with ${ROOT_HTML_ELEMENT_ID} id not found.`,
   );
 }
 if (greeter) {

@@ -4,13 +4,7 @@ Deno exploration project
 
 ## Problems
 
-- Cannot find name `Deno`
-
-- Top level async error
-
-- VS Code: `Cannot find module X locally`
-
-- Prettier formatiing in VS Code issues: ignored `.prettierrc`
+- vscode: "dom" lib types are not used
 
 ## Resources
 
